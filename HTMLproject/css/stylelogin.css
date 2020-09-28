@@ -1,0 +1,48 @@
+
+table {
+
+    width: 1023px;
+
+}
+table, th, td {
+    border: none;
+    background-color: rgb(0, 255, 191);
+  }
+
+
+.divheader{
+    background-color: rgb(0, 255, 191);
+    top: 50px;
+    height: 60px;
+    float: left;
+    font-size: xx-large;
+}
+
+.divheaderlink{
+    float: right;
+    width: 60px;
+}
+
+.link{
+    background-color: rgb(0, 255, 191);
+    text-decoration: none;
+    color: blue;
+}
+
+.divmain{
+    background-color: cornflowerblue;
+    height: 500px;
+    padding: 20px;
+    text-align:left;
+}
+
+button{
+    border-radius: 20px;
+}
+
+.divfooter{
+    background-color: rgb(148, 243, 148);
+    text-align: center;
+    padding: 15px;
+}
+
